@@ -102,7 +102,7 @@ $(document).ready(()=>{
 });
 
 $(document).ready(function(){
-  $("#checkOut").onclick(function(event){
+  $("#checkOut").click(function(event){
       alert (name + ", We have received your message. Thank you for reaching out to us.");
   });    
 });
