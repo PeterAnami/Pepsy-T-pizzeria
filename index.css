@@ -83,28 +83,6 @@ nav .navbar{
   font-family: 'Comfortaa', cursive;
 
 }
-/* .controls-top h2{
-  color: rgb(5, 172, 5);
-  padding-top: 40px;
-  padding-bottom: 20px;
-  font-weight: bolder; */
-}
-/* .col-md-4{
-  border-radius: 10%;
-  padding: 10px;
-}
-#about-us{
-  min-height: 70vh;
-  align-items: center;
-
-} */
-/* .about-pic {
-  background-color: #ffa500;
-  padding-top: 10px;
-  padding-right: 10px;
-  padding-bottom: 10px;
-  padding-left: 0px;
-} */
 #about-us .content{
   padding: 65px 50px 85px;
   width: 100%;
@@ -144,23 +122,7 @@ nav .navbar{
 #variety{
   padding-top: 30px;
 }
-/* .order{
-  background-attachment: fixed;
-  background-image: url("../images/slider2.jpg");
-  background-position: center;
-  background-size: cover;
-  background-repeat: no-repeat;
-  color: white;
-  padding-top: 4%;
-  padding-bottom: 4%;
-} */
-/* .order-overlay{
-  background-color: rgba(0, 0, 0, 0.8);
-  margin-left: 2%;
-  margin-right: 2%;
-  padding-bottom: 20px;
-  padding-left: 6%;
-} */
+
 .menu {
   padding: 5%;
   background-image: url(images/image13.jpeg);
@@ -169,21 +131,21 @@ nav .navbar{
   text-align: center;
   color: #ffffff;
   background-repeat:no-repeat;
-  /* box-shadow: 0px 5px 8px #2E1C13; */
+  
 }
 
 .menu h2 {
   font-family: 'Comfortaa', cursive;
-
   color: blue;
   font-size: 40px;
 }
 .text-center a {
   font-family: 'Comfortaa', cursive;
-  color: #cdcdcd;
+  color: rgb(25, 0, 255);
+
 }
 #menuCard,#menuItem {
-  background: rgba(0,0,0,0.4);
+  background: rgba(165, 74, 21, 0.1);
   font-family: 'Comfortaa', cursive;
 }
 #dropdownMenuButton {
@@ -217,7 +179,7 @@ nav .navbar{
 }
 .dropdown-menu a {
   font-family: 'Comfortaa', cursive;
-font-family: 'Lobster', cursive;
+
 }
 #orderDetails {
   border-radius: 0px;
